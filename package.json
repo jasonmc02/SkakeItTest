@@ -1,0 +1,17 @@
+{
+  "name": "ShakeItTest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "shake_it.js",
+  "author": "",
+  "license": "",
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*",
+    "chai-as-promised": "*",
+    "wd": "*",
+    "colors": "*",
+    "underscore": "*",
+    "q": "*" 
+  }
+}
